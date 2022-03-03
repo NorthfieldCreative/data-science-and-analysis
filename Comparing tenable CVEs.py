@@ -13,6 +13,9 @@ tenableassets = pd.read_csv('tenableassets.csv', low_memory=False)
 # Because hosts with more than one cve are comma separated within the same 
 # row, we need to Separate all cves respective rows maintaining other attributes
 ###########
+
+
+
 tenableassets["CVE"]=tenableassets["CVE"].str.split(',')
 assetswithseparatedcves=(tenableassets.explode("CVE").reset_index(drop=True))
 
@@ -23,7 +26,7 @@ assetswithseparatedcves=(tenableassets.explode("CVE").reset_index(drop=True))
 # a variable that can be searched
 ############################################
 
-cisalist = pd.read_csv('cisaknownexploited.csv', low_memory=False) 
+cisalist = pd.read_csv('https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv', low_memory=False) 
 searchfor = cisalist['cveID']
 
 
@@ -56,3 +59,14 @@ results.drop(['Asset UUID', 'CVSS', 'CVSS Base Score', 'CVSS Temporal Score', 'C
 #################################################
 
 results.to_csv(r'results.csv', index = False)
+
+
+##################################################
+# Printing the status of the environment
+##################################################
+print("Current total number of CVEs that exist in the environment:")
+print(len(assetswithseparatedcves.index))
+print("Of these, the below is how many have been observed to be actively exploited:")
+print(len(results.index))
+
+
