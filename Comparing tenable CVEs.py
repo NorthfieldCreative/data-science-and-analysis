@@ -28,7 +28,8 @@ searchfor = cisalist['cveID']
 
 
 ##################################
-# dropping machines without a CVE so the data can be parsed
+# dropping machines without a CVE from the 
+# table so the data can be parsed
 ##################################
 
 assetswithseparatedcves.dropna(subset=['CVE'], inplace=True)

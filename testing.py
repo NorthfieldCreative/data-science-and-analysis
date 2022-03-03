@@ -3,14 +3,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-datatest = pd.read_csv('test.csv', low_memory=False)
-#datatest['result'] = np.where(datatest['column1'] == datatest['column2'], '1', '0')
-cisalist = pd.read_csv('cisaknownexploited.csv', low_memory=False)
-searchfor = cisalist['cveID']
 
-# if any part is in
-#datatest['results'] = datatest[datatest['column2'].str.contains('|'.join(searchfor))]
-datatest['results'] = datatest[datatest['column2'].str.contains('|'.join(searchfor))]
+########################################################
+# Open the exported list of assets with cves from tenable
+#########################################################
+tenableassets = pd.read_csv('tenableassets.csv', low_memory=False)
 
-datatest.dropna(subset=['results'], inplace=True)
-datatest.to_csv(r'datatestresults.csv', index = False)
+###########
+# Because hosts with more than one cve are comma separated within the same 
+# row, we need to Separate all cves respective rows maintaining other attributes
+###########
+tenableassets["CVE"]=tenableassets["CVE"].str.split(',')
+assetswithseparatedcves=(tenableassets.explode("CVE").reset_index(drop=True))
+assetswithseparatedcves.to_csv(r'allcves.csv', index = False)
