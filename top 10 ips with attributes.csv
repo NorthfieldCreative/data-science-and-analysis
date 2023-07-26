@@ -1,0 +1,113 @@
+index,IP Address,Host Name,Internal IP,OS,Protocol,Port,Service Name
+15,104.18.40.65,Unkown,Unkown,Unkown,tcp,Unkown,general
+16,104.18.40.65,Unkown,Unkown,Unkown,tcp,2052.0,www
+17,104.18.40.65,Unkown,Unkown,Unkown,tcp,2053.0,www
+18,104.18.40.65,Unkown,Unkown,Unkown,tcp,2082.0,www
+19,104.18.40.65,Unkown,Unkown,Unkown,tcp,2083.0,www
+20,104.18.40.65,Unkown,Unkown,Unkown,tcp,2086.0,www
+21,104.18.40.65,Unkown,Unkown,Unkown,tcp,2087.0,www
+22,104.18.40.65,Unkown,Unkown,Unkown,tcp,2095.0,www
+23,104.18.40.65,Unkown,Unkown,Unkown,tcp,2096.0,www
+24,104.18.40.65,Unkown,Unkown,Unkown,tcp,443.0,www
+25,104.18.40.65,Unkown,Unkown,Unkown,tcp,80.0,www
+26,104.18.40.65,Unkown,Unkown,Unkown,tcp,8080.0,www
+27,104.18.40.65,Unkown,Unkown,Unkown,tcp,8443.0,www
+28,104.18.40.65,Unkown,Unkown,Unkown,tcp,8880.0,www
+29,104.18.40.65,Unkown,Unkown,Unkown,udp,Unkown,general
+30,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,Unkown,general
+31,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2052.0,www
+32,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2053.0,www
+33,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2082.0,www
+34,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2083.0,www
+35,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2086.0,www
+36,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2087.0,www
+37,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2095.0,www
+38,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,2096.0,www
+39,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,443.0,www
+40,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,80.0,www
+41,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,8080.0,www
+42,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,8443.0,www
+43,104.18.40.65,store.shure.com,Unkown,Unkown,tcp,8880.0,www
+44,104.18.40.65,store.shure.com,Unkown,Unkown,udp,Unkown,general
+45,104.21.89.43,Unkown,Unkown,Unkown,tcp,Unkown,general
+46,104.21.89.43,Unkown,Unkown,Unkown,tcp,2052.0,www
+47,104.21.89.43,Unkown,Unkown,Unkown,tcp,2053.0,www
+48,104.21.89.43,Unkown,Unkown,Unkown,tcp,2082.0,www
+49,104.21.89.43,Unkown,Unkown,Unkown,tcp,2083.0,www
+50,104.21.89.43,Unkown,Unkown,Unkown,tcp,2086.0,www
+51,104.21.89.43,Unkown,Unkown,Unkown,tcp,2087.0,www
+52,104.21.89.43,Unkown,Unkown,Unkown,tcp,2095.0,www
+53,104.21.89.43,Unkown,Unkown,Unkown,tcp,2096.0,www
+54,104.21.89.43,Unkown,Unkown,Unkown,tcp,443.0,www
+55,104.21.89.43,Unkown,Unkown,Unkown,tcp,80.0,www
+56,104.21.89.43,Unkown,Unkown,Unkown,tcp,8080.0,www
+57,104.21.89.43,Unkown,Unkown,Unkown,tcp,8443.0,www
+58,104.21.89.43,Unkown,Unkown,Unkown,tcp,8880.0,www
+59,104.21.89.43,Unkown,Unkown,Unkown,udp,Unkown,general
+211,172.64.147.191,Unkown,Unkown,Unkown,tcp,Unkown,general
+212,172.64.147.191,Unkown,Unkown,Unkown,tcp,2052.0,www
+213,172.64.147.191,Unkown,Unkown,Unkown,tcp,2053.0,www
+214,172.64.147.191,Unkown,Unkown,Unkown,tcp,2082.0,www
+215,172.64.147.191,Unkown,Unkown,Unkown,tcp,2083.0,www
+216,172.64.147.191,Unkown,Unkown,Unkown,tcp,2086.0,www
+217,172.64.147.191,Unkown,Unkown,Unkown,tcp,2087.0,www
+218,172.64.147.191,Unkown,Unkown,Unkown,tcp,2095.0,www
+219,172.64.147.191,Unkown,Unkown,Unkown,tcp,2096.0,www
+220,172.64.147.191,Unkown,Unkown,Unkown,tcp,443.0,www
+221,172.64.147.191,Unkown,Unkown,Unkown,tcp,80.0,www
+222,172.64.147.191,Unkown,Unkown,Unkown,tcp,8080.0,www
+223,172.64.147.191,Unkown,Unkown,Unkown,tcp,8443.0,www
+224,172.64.147.191,Unkown,Unkown,Unkown,tcp,8880.0,www
+225,172.64.147.191,Unkown,Unkown,Unkown,udp,Unkown,general
+461,204.124.150.113,Unkown,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,Unkown,general
+462,204.124.150.113,Unkown,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,443.0,https?
+463,204.124.150.113,Unkown,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,50001.0,pop3proxy?
+464,204.124.150.113,Unkown,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,80.0,www
+465,204.124.150.113,Unkown,172.17.80.128,Microsoft Windows Server 2012 R2,udp,Unkown,general
+466,204.124.150.113,connect.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,Unkown,general
+467,204.124.150.113,connect.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,443.0,www
+468,204.124.150.113,connect.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,50001.0,pop3proxy?
+469,204.124.150.113,connect.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,80.0,www
+470,204.124.150.113,connect.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,udp,Unkown,general
+471,204.124.150.113,connectdev.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,Unkown,general
+472,204.124.150.113,connectdev.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,443.0,https?
+473,204.124.150.113,connectdev.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,50001.0,pop3proxy?
+474,204.124.150.113,connectdev.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,80.0,www
+475,204.124.150.113,connectdev.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,udp,Unkown,general
+476,204.124.150.113,connectqa.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,Unkown,general
+477,204.124.150.113,connectqa.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,443.0,https?
+478,204.124.150.113,connectqa.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,50001.0,pop3proxy?
+479,204.124.150.113,connectqa.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,80.0,www
+480,204.124.150.113,connectqa.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,udp,Unkown,general
+481,204.124.150.113,shopqaprofile.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,Unkown,general
+482,204.124.150.113,shopqaprofile.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,443.0,https?
+483,204.124.150.113,shopqaprofile.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,50001.0,www
+484,204.124.150.113,shopqaprofile.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,tcp,80.0,www
+485,204.124.150.113,shopqaprofile.shure.com,172.17.80.128,Microsoft Windows Server 2012 R2,udp,Unkown,general
+841,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,icmp,Unkown,general
+842,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,tcp,Unkown,general
+843,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,tcp,443.0,www
+844,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,tcp,80.0,www
+845,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,udp,Unkown,general
+846,51.195.34.251,ip251.ip-51-195-34.eu,Unkown,Linux Kernel 4.8,udp,53.0,dns
+851,52.15.164.1,ec2-52-15-164-1.us-east-2.compute.amazonaws.com,Unkown,Linux Kernel 2.6,tcp,Unkown,general
+852,52.15.164.1,ec2-52-15-164-1.us-east-2.compute.amazonaws.com,Unkown,Linux Kernel 2.6,tcp,443.0,www
+853,52.15.164.1,ec2-52-15-164-1.us-east-2.compute.amazonaws.com,Unkown,Linux Kernel 2.6,tcp,80.0,www
+854,52.15.164.1,ec2-52-15-164-1.us-east-2.compute.amazonaws.com,Unkown,Linux Kernel 2.6,udp,Unkown,general
+855,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,Unkown,general
+856,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,10001.0,www
+857,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,10002.0,www
+858,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,20000.0,www
+859,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,443.0,www
+860,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,8081.0,www
+861,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,8082.0,www
+862,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,8443.0,www
+863,52.176.105.207,Unkown,Unkown,Microsoft Windows,tcp,8444.0,www
+864,52.176.105.207,Unkown,Unkown,Microsoft Windows,udp,Unkown,general
+966,54.227.60.156,ec2-54-227-60-156.compute-1.amazonaws.com,172.16.209.21,Unkown,Unkown,Unkown,Unkown
+1127,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),icmp,Unkown,general
+1128,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),tcp,Unkown,general
+1129,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),tcp,22.0,ssh
+1130,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),tcp,443.0,www
+1131,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),tcp,80.0,www
+1132,95.216.209.31,static.31.209.216.95.clients.your-server.de,Unkown,Linux Kernel 4.15 on Ubuntu 18.04 (bionic),udp,Unkown,general
