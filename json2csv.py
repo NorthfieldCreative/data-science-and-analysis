@@ -5,9 +5,10 @@ import xml.etree.ElementTree as ET
 import xmltodict
 import json
 import collections
+from collections.abc import MutableMapping
 
 ### re opens the JSON file for further processing   ### 
-with open('tempfile.json') as json_file: 
+with open('deq-prod.json') as json_file: 
     data = json.load(json_file) 
   
 
@@ -32,7 +33,8 @@ def flatten(dictionary, parent_key=False, separator='.'):
     for key, value in dictionary.items():
         if crumbs: print('checking:',key)
         new_key = str(parent_key) + separator + key if parent_key else key
-        if isinstance(value, collections.MutableMapping):
+        #if isinstance(value, collections.MutableMapping):
+        if isinstance(value, MutableMapping):
             if crumbs: print(new_key,': dict found')
             if not value.items():
                 if crumbs: print('Adding key-value pair:',new_key,None)
